@@ -1,1 +1,1 @@
-[react-weather](https://github.com/react-weather).
+[react-weather](https://kondratiev95.github.io/react-weather).
